@@ -1,0 +1,12 @@
+Documentation for lab1script.py
+
+I created a script that prompts the user and responds based on input.
+
+The user can use this script to find the current date, current time, or both.
+    To get the time users should enter "Time"
+    To get the date users should enter "Date"
+    To get both users should enter "Both"
+
+Script is case sensitive!
+
+Any option other than "Time", "Date", or "Both" will loop the user until a valid entry is received.
