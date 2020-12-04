@@ -3,8 +3,8 @@ import json
 import requests
 
 count =1
-
-print('    Welcome to TDW Version 3.0!   ')
+print(' ')
+print('    - Welcome to TDW Version 3.0! -   ')
 print('I can provide the Time, Date, and Weather for any U.S. zipcode.')
 print('Enter your zipcode here:')
 while count>0:
