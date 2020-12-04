@@ -3,7 +3,7 @@ TWD Version 3.0 documentation
 I created a python script that prompts the user and responds based on input.
 
 The script can be downloaded and run from a folder of your chosing. 
-Download the file to the desired folder, navigate to that folder in powershell, and type the command "python .\FinalProject3.py" to run the script.
+Download the file to the desired folder, navigate to that folder in powershell, and type the command "python .\FinalProjectThree.py" to run the script.
 
 The user can use this script to find the current date, current time, or weather based on their zipcode rather than manual entry.
     To get the time users should enter "Time"
@@ -12,7 +12,7 @@ The user can use this script to find the current date, current time, or weather 
 
 The script now references multiple API's and pulls data based on Zip Code rather than multiple entries from the user.
 
-I use the re module to check the zip code for a valid 5 number format
+I use the re module to check the zip code for a valid 5 number format.
 
 The script is not case sensitive.
 
